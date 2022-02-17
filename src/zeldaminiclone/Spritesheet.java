@@ -30,7 +30,6 @@ public class Spritesheet {
 		
 		enemy_front[0] = Spritesheet.getSprite(296, 221, 16, 16);
 		enemy_front[1] = Spritesheet.getSprite(312, 221, 16, 16);
-		
 		tileWall = Spritesheet.getSprite(280, 221, 16, 16);
 		
 	}
